@@ -1,4 +1,4 @@
-<h1>Hi, I'm James, an <a href="https://www.linkedin.com/in/james-simon-662b62324/">IT Professional</a>☺</h1>
+<h1>Hi, I'm James, an <a href="https://www.linkedin.com/in/james-simon-662b62324/">IT Professional</a>😊</h1>
 
 <h2>👨‍💻 Information Technology Projects:</h2>
 
