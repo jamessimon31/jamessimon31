@@ -9,8 +9,8 @@
 - <b>Microsoft Azure</b>
   - [Createing / Connecting to a VM in Microsoft Azure](https://github.com/jamessimon31/ConfigueVM)
   - [Network Security Groups (NSGs) and Inspecting Network Protocols](https://github.com/joshmadakorcc/azure-network-protocols)
-  - [Setup Active Directory in Azure](https://github.com/jamessimon31/AzureActiveDirectory) 
-
+  - [Part 1: Setup Active Directory in Azure](https://github.com/jamessimon31/AzureActiveDirectory)
+  - [Part 2: Deploying AD](https://github.com/jamessimon31/AzureActiveDirectory-Deploying)
 
 <h2>🤳Connect with me:</h2>
 
