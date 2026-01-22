@@ -13,7 +13,8 @@
 
 - **Setting up Active Directory in Azure**
   - [Part 1: Setup Active Directory in Azure](https://github.com/jamessimon31/AzureActiveDirectory)
-  - [Part 2: Deploying AD](https://github.com/jamessimon31/AzureActiveDirectory-Deploying)
+  - [Part 2: Deploying Active Directory](https://github.com/jamessimon31/AzureActiveDirectory-Deploying)
+  - Part 3: Account Maintenance 
 
     
 ## 🤳Connect with me:
